@@ -1,4 +1,4 @@
-package com.cg.leetcode.N208Trie;
+package com.cg.leetcode.hard.N208Trie;
 class Trie {
     private Trie[] children;
     private boolean isEnd;
